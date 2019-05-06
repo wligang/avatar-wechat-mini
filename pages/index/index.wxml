@@ -1,0 +1,29 @@
+<!--pages/hido/index.wxml-->
+
+<view class="container-hido">
+  <view class="avatar-csdn">
+    <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover">
+    </image>
+
+  </view>
+  <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+  <view class="question-input-area">
+    <!-- 问题标题区域  -->
+    <view class="question-title-wrap">
+      <!-- 标题输入框 -->
+      <input wx:if="{{hasUserInfo}}" class="question-title " placeholder="请输入{{appName}}用户名" maxlength="40" placeholder-style="color:#b3b3b3;font-size:18px;" bindinput="bindKeyInput"></input>
+    </view>
+  </view>
+
+  <view class="question-images-tool">
+    <image class="button-go" mode="scaleToFill" bindtap="getCsdnUserInfo" src="http://img.wlgdo.com/avatar/next.png"></image>
+  </view>
+  <view class="question-images-area">
+    <text wx:if="{{hasUserInfo}}" class='tip-title' style="font-size: 13px;">点击获取数据</text>
+    <button wx:if="{{!hasUserInfo && canIUse}}" style="font-size: 13px;"open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    </view>
+  <view class="progress-wrap">
+    <text class='tip-title'>Welcome to Hido</text>
+    <progress percent="100" active bindactiveend="loadCsdnPage" />
+  </view>
+</view>

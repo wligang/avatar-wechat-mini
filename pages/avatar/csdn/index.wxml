@@ -1,0 +1,59 @@
+<wxs src="../../../wxs/strutil.wxs" module="tools" />
+<scroll-view scroll-y="true">
+  <loading hidden="{{hidden}}">
+    加载中...
+  </loading>
+  <view class="first line">
+    <image class="first-img" mode="scaleToFill" src="http://img.wlgdo.com/avatar/top.jpg"></image>
+    <image class="avatar-wx" mode="scaleToFill" src='{{userInfo.avatarUrl}}'></image>
+    <text class="nick-title">{{userInfo.nickName}}</text>
+  </view>
+  <view class="second line">
+    <view class="sl-col">
+      <view class='line-title-num'>{{csdnUserInfo.interview}}</view>
+      <view class="line-title">阅读量</view>
+    </view>
+    <view class="sl-col">
+      <view class='line-title-num'>{{csdnUserInfo.ranking}}</view>
+      <view class="line-title">排名</view>
+    </view>
+    <view class="sl-col">
+      <view class='line-title-num'>{{csdnUserInfo.fansNum}}</view>
+      <view class="line-title">粉丝</view>
+    </view>
+    <view class="sl-col">
+      <view class='line-title-num'>{{csdnUserInfo.integration}}</view>
+      <view class="line-title">积分</view>
+    </view>
+  </view>
+  <view class="menu">
+    <scroll-view scroll-x="true" class="top-nav">
+      <view bindtap="toPersonal" hidden="{{perNav}}" class="top-btn {{per}}">个人TOP20</view>
+      <view bindtap="toHot" class="top-btn {{hot}}">站内TOP20</view>
+    </scroll-view>
+  </view>
+
+  <view class="line">
+    <scroll-view scroll-y style="height: 350px;margin-top:20px" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll">
+      <view class='list-per' hidden='{{hidden!="per"}}'>
+        <view class="text-center" wx:for="{{csdnArticles}}">
+          <view class="articl-line">
+            <view class='articl-line-title' bindtap='bindViewTap' data-articl-url='{{item.href}}'>{{tools.sub(item.title)}}</view>
+            <view class=".articl-line-view">浏览:{{item.interview}} 评论：{{item.moment}}</view>
+          </view>
+        </view>
+      </view>
+
+
+      <view class='list-hot' hidden='{{hidden!="hot"}}'>
+        <view class="text-center" wx:for="{{hotArticles}}">
+          <view class="articl-line">
+            <view class='articl-line-title' bindtap='bindViewTap' data-articl-url='{{item.href}}'>{{tools.sub(item.title)}}</view>
+            <view class=".articl-line-view">浏览:{{item.interview}} 评论：{{item.moment}}</view>
+          </view>
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+
+</scroll-view>

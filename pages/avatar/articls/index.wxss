@@ -1,0 +1,8 @@
+/* pages/avatar/articls/index.wxss */
+
+.artticl-line {
+  width: 100%;
+  margin: 0 2rpx;
+  /* text-align: center; */
+  padding: 3rpx;
+}

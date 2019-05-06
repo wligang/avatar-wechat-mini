@@ -1,0 +1,31 @@
+<!--pages/hido/index.wxml-->
+
+<view class="container-hido">
+  <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover">
+  </image>
+  <view class="question-input-area">
+    <!-- 问题标题区域  -->
+    <view class="question-title-wrap">
+      <!-- 标题输入框 -->
+      <input class="question-title" placeholder="请输入标题" maxlength="40" placeholder-style="color:#b3b3b3;font-size:18px;" bindinput="handleTitleInput"></input>
+    </view>
+  </view>
+  <view class="question-images-area">
+
+    <!-- 图片缩略图  -->
+    <view class="question-images">
+      <block wx:for="{{images}}" wx:key="*this">
+        <view class="q-image-wrap">
+          <image class="q-image" src="{{item}}" mode="aspectFill" data-idx="{{index}}" bindtap="handleImagePreview"></image>
+          <view class="q-image-remover" data-idx="{{index}}" bindtap="removeImage">删除</view>
+        </view>
+      </block>
+    </view>
+    <!-- 添加图片按钮  -->
+    <view class="question-images-tool">
+      <button type="default" size="mini" bindtap="chooseImage" wx:if="{{images.length < 3}}">添加图片</button>
+      <button class="q-image-remover" size="mini" bindtap="downloadFile">下载图片</button>
+    </view>
+
+  </view>
+</view>
