@@ -13,22 +13,15 @@ avatar项目的微信小程序
 
 
 
-<img src="https://img-blog.csdnimg.cn/20190506121130640.jpg" width = "300" height = "400" div align=""/>
+<img src="https://img-blog.csdnimg.cn/20190506121130640.jpg" width = "200" height = "320" div align="left"/>
 
-<img src="https://img-blog.csdnimg.cn/20190506121145624.jpg" width = "300" height = "400" div align=""/>
+<img src="https://img-blog.csdnimg.cn/20190506121145624.jpg" width = "200" height = "320" div align="left"/>
 
 
-<img src="https://img-blog.csdnimg.cn/20190506121156678.jpg" width = "300" height = "400" div align=""/>
+<img src="https://img-blog.csdnimg.cn/20190506121156678.jpg" width = "200" height = "320" div align="left"/>
 
-<img src="https://img-blog.csdnimg.cn/20190506121209283.jpg" width = "300" height = "400" div align=""/>
+<img src="https://img-blog.csdnimg.cn/20190506121209283.jpg" width = "200" height = "320" div align="left"/>
 
-![List item](https://img-blog.csdnimg.cn/20190506121130640.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0xlZWdvb1dhbmc=,size_4,color_FFFFFF,t_70)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190506121145624.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0xlZWdvb1dhbmc=,size_16,color_FFFFFF,t_70)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190506121156678.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0xlZWdvb1dhbmc=,size_16,color_FFFFFF,t_70)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190506121209283.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0xlZWdvb1dhbmc=,size_16,color_FFFFFF,t_70)
 如果觉得项目不错，可以点个Star哦😉😉😉
 
 
