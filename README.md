@@ -12,14 +12,15 @@ avatar项目的微信小程序
 ![https://img-blog.csdnimg.cn/20190505115944855.jpg](https://img-blog.csdnimg.cn/20190505115944855.jpg)
 
 
-<img src="https://img-blog.csdnimg.cn/20190506121130640.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0xlZWdvb1dhbmc=,size_4,color_FFFFFF,t_70" width = "100px" height = "100" div align=""/>
-<img src="https://img-blog.csdnimg.cn/20190505115944855.jpg" width = "100px" height = "100" div align=lef/>
 
-<img src="https://img-blog.csdnimg.cn/20190506121130640.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0xlZWdvb1dhbmc=,size_4,color_FFFFFF,t_70" width = "100px" height = "100" div align=lef/>
+<img src="https://img-blog.csdnimg.cn/20190506121130640.jpg" width = "300" height = "400" div align=""/>
 
-<img src="https://img-blog.csdnimg.cn/20190506121156678.jpg" width = "100px" height = "100" div align=lef/>
+<img src="https://img-blog.csdnimg.cn/20190506121145624.jpg" width = "300" height = "400" div align=""/>
 
-<img src="https://img-blog.csdnimg.cn/20190506121209283.jpg" width = "100px" height = "100" div align=lef/>
+
+<img src="https://img-blog.csdnimg.cn/20190506121156678.jpg" width = "300" height = "400" div align=""/>
+
+<img src="https://img-blog.csdnimg.cn/20190506121209283.jpg" width = "300" height = "400" div align=""/>
 
 ![List item](https://img-blog.csdnimg.cn/20190506121130640.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0xlZWdvb1dhbmc=,size_4,color_FFFFFF,t_70)
 
