@@ -2,8 +2,8 @@
 avatar项目的微信小程序
 
 ## Avatar项目微信小程序端
- 1. 将工程下载到本地：git@github.com:wligang/avatar-wechat-mini.git
- 2. 将您的小程序域名配置到[http://www.wlgdo.com]的域名下
+ 1. 将工程下载到本地：[git@github.com:wligang/avatar-wechat-mini.git](git@github.com:wligang/avatar-wechat-mini.git)
+ 2. 将您的小程序域名配置到[www.wlgdo.com](https://www.wlgdo.com)
  3. 导入到微信小程序开发工具中，因为我的后台接口是完全开放的，所以您可以直接启动运行该项目。
 
 
