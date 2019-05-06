@@ -18,7 +18,9 @@ avatar项目的微信小程序
 
 <img src="https://img-blog.csdnimg.cn/20190506121156678.jpg" width = "180" height = "320" div align="left"/>
 
-<img src="https://img-blog.csdnimg.cn/20190506121209283.jpg" width = "180" height = "320" div align="left"/>
+<img src="https://img-blog.csdnimg.cn/20190506121209283.jpg" width = "180" height = "320" div align=""/>
+
+
 
 ### 小程序码
 ![https://img-blog.csdnimg.cn/20190505115944855.jpg](https://img-blog.csdnimg.cn/20190505115944855.jpg)
