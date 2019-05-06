@@ -12,15 +12,17 @@ avatar项目的微信小程序
 
 ###下面是运行的效果
 
-<img src="https://img-blog.csdnimg.cn/20190506121130640.jpg" width = "200" height = "320" div align="left"/>
+<img src="https://img-blog.csdnimg.cn/20190506121130640.jpg" width = "180" height = "300" div align="left"/>
 
-<img src="https://img-blog.csdnimg.cn/20190506121145624.jpg" width = "200" height = "320" div align="left"/>
+<img src="https://img-blog.csdnimg.cn/20190506121145624.jpg" width = "180" height = "320" div align="left"/>
 
-<img src="https://img-blog.csdnimg.cn/20190506121156678.jpg" width = "200" height = "320" div align="left"/>
+<img src="https://img-blog.csdnimg.cn/20190506121156678.jpg" width = "180" height = "320" div align="left"/>
 
-<img src="https://img-blog.csdnimg.cn/20190506121209283.jpg" width = "200" height = "320" div align="left"/>
+<img src="https://img-blog.csdnimg.cn/20190506121209283.jpg" width = "180" height = "320" div align="left"/>
 
+### 小程序码
 ![https://img-blog.csdnimg.cn/20190505115944855.jpg](https://img-blog.csdnimg.cn/20190505115944855.jpg)
+
 
 
 如果觉得项目不错，可以点个Star哦😉😉😉
