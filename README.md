@@ -11,7 +11,7 @@ avatar项目的微信小程序
 这个工程已经发布完成了，在微信小程序搜索“Hido互联”或者扫描下面的小程序码,即可体验
 ![https://img-blog.csdnimg.cn/20190505115944855.jpg](https://img-blog.csdnimg.cn/20190505115944855.jpg)
 
-![List item](https://img-blog.csdnimg.cn/20190506121130640.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0xlZWdvb1dhbmc=,size_16,color_FFFFFF,t_70)
+![List item](https://img-blog.csdnimg.cn/20190506121130640.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0xlZWdvb1dhbmc=,size_4,color_FFFFFF,t_70)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190506121145624.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0xlZWdvb1dhbmc=,size_16,color_FFFFFF,t_70)
 
